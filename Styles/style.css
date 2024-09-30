@@ -1,0 +1,21 @@
+/* External css */
+h3{
+    color: blueviolet;
+}
+
+.para{
+    background-color: aqua;
+}
+
+#abc{
+    font-size: 40px;
+}
+
+h1{
+    color: brown;
+    /* font-size: 10px; */
+}
+
+h4,p{
+    background-color: yellow;
+}
